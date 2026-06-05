@@ -1,17 +1,8 @@
 {
-  "name": "heritage-international-school",
+  "name": "zeal-college",
   "version": "1.0.0",
-  "description": "Official website for Heritage International School",
-  "main": "script.js",
+  "description": "ZEAL College Website",
   "scripts": {
-    "start": "npx serve .",
-    "dev": "npx serve ."
-  },
-  "keywords": [
-    "school",
-    "education",
-    "website"
-  ],
-  "author": "Your Name",
-  "license": "MIT"
+    "start": "npx serve ."
+  }
 }
