@@ -1,8 +1,17 @@
 {
-  "name": "zeal-college",
+  "name": "zeal-college-website",
   "version": "1.0.0",
-  "description": "ZEAL College Website",
+  "description": "Zeal College static website",
+  "main": "script.js",
   "scripts": {
-    "start": "npx serve ."
-  }
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "college",
+    "education",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
 }
