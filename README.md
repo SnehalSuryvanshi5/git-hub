@@ -1,35 +1,9 @@
-# Heritage International School Website
+# ZEAL College Website
 
-A responsive school website built using HTML, CSS, and JavaScript.
+Simple responsive college website.
 
-## Features
-
-- Responsive design
-- Hero section
-- About section
-- Academics section
-- Admissions section
-- Contact information
-- Smooth scrolling navigation
-
-## Installation
+## Run
 
 ```bash
 npm install
-```
-
-## Run Locally
-
-```bash
 npm start
-```
-
-The website will be available at:
-
-http://localhost:3000
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
