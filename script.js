@@ -1,11 +1,3 @@
-document.addEventListener("DOMContentLoaded", () => {
-    const learnMoreBtn = document.getElementById("learnMoreBtn");
-
-    learnMoreBtn.addEventListener("click", () => {
-        document
-            .getElementById("about")
-            .scrollIntoView({ behavior: "smooth" });
-    });
-
-    console.log("Heritage International School website loaded.");
+document.getElementById("learnMoreBtn").addEventListener("click", () => {
+    alert("Welcome to Zeal College! Admissions are now open.");
 });
