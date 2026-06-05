@@ -1,0 +1,17 @@
+{
+  "name": "heritage-international-school",
+  "version": "1.0.0",
+  "description": "Official website for Heritage International School",
+  "main": "script.js",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "school",
+    "education",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
